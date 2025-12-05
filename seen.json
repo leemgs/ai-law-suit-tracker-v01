@@ -83,6 +83,34 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/articles/CAIiEDQBe7CL7vo_0ko0s5rnuTMqFggEKg0IACoGCAowkqEGMJBZMOniuwY?hl=en-US&gl=US&ceid=US%3Aen": {
+      "created_at": "2025-12-05T18:27:14.229074+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/13",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/home?hl=en-GB&gl=GB&ceid=GB:en": {
+      "created_at": "2025-12-05T18:27:15.996821+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/14",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/?taa=1&hl=en-CA&gl=CA&ceid=CA:en": {
+      "created_at": "2025-12-05T18:27:18.246297+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/15",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/home?hl=en-IE&gl=IE&ceid=IE:en": {
+      "created_at": "2025-12-05T18:27:20.160726+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/16",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

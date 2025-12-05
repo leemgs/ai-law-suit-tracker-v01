@@ -1,3 +1,74 @@
 {
-  "items": {}
+  "items": {
+    "https://news.google.com/?topic=o&hl=ko&gl=KR&ceid=KR:ko": {
+      "created_at": "2025-12-05T10:58:39.920386+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/1",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/share.google?q=8MpUvieLqqVn8pwss": {
+      "created_at": "2025-12-05T10:58:42.923170+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/2",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vd3d3Lmxhdy5jb20vbmF0aW9uYWxsYXdqb3VybmFsLzIwMjIvMTAvMTIvanVzdGljZXMtd3Jlc3RsZS13aXRoLW92ZXJ0aW1lLXBheS1mb3ItaGlnaGx5LWNvbXBlbnNhdGVkLWVtcGxveWVlcy_SAQA?oc=5": {
+      "created_at": "2025-12-05T10:58:44.847926+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/3",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://careers.google.com/jobs/results/106259379837117126-associate-competition-economist/": {
+      "created_at": "2025-12-05T10:58:46.551848+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/4",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/home?hl=en-IL&gl=IL&ceid=IL%3Aen": {
+      "created_at": "2025-12-05T10:58:48.644772+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/5",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://docs.cloud.google.com/python/docs/reference/networksecurity/latest/google.cloud.network_security_v1alpha1.types.AuthorizationPolicy.Action": {
+      "created_at": "2025-12-05T10:58:50.637310+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/6",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://toolbox.google.com/factcheck": {
+      "created_at": "2025-12-05T10:58:52.288110+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/7",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://play.google.com/store/apps/details?id=com.golawtech.causaganha": {
+      "created_at": "2025-12-05T10:58:53.998058+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/8",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/?taa=1&hl=en-US&gl=US&ceid=US:en": {
+      "created_at": "2025-12-05T10:58:55.698764+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/9",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://play.google.com/store/apps/details?id=com.kuemiin.claim&hl=be": {
+      "created_at": "2025-12-05T10:58:57.262134+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/10",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    }
+  }
 }

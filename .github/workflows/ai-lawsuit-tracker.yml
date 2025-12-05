@@ -8,15 +8,19 @@ on:
 jobs:
   run:
     runs-on: ubuntu-latest
+    
     permissions:
-      issues: write
-      contents: write
+      contents: write          # push, commit, update seen.json 가능
+      issues: write            # Issue 생성 권한
+      actions: write           # workflow self-write 가능 (옵션)
+    
     env:
       GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
       GOOGLE_CSE_ID: ${{ secrets.GOOGLE_CSE_ID }}
       GITHUB_REPOSITORY: ${{ github.repository }}
       DATE_RESTRICT_DAYS: "3"
       MAX_RESULTS_PER_KEYWORD: "8"
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -31,7 +35,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run tracker
+      - name: Run AI Lawsuit Tracker
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN || github.token }}
         run: |
           python app/main.py
 

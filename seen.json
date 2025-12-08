@@ -293,6 +293,20 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://play.google.com/store/apps/details?id=ai.mybuddy.talkingflashcards_new&hl=en_AU": {
+      "created_at": "2025-12-08T10:23:10.985406+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/43",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/home?hl=en-US&tab=wn&gl=US&ceid=US:en": {
+      "created_at": "2025-12-08T10:23:12.613114+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/44",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

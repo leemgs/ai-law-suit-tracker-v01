@@ -475,6 +475,41 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://play.google.com/store/apps/details/Buddy_ai_English_for_kids?id=ai.mybuddy.talkingflashcards_new&hl=en_CA": {
+      "created_at": "2025-12-11T16:30:37.475937+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/69",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/?vanilla=1": {
+      "created_at": "2025-12-11T16:30:39.202942+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/70",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://play.google.com/store/apps/details?id=ai.mybuddy.talkingflashcards_new&hl=en_IN": {
+      "created_at": "2025-12-11T16:30:40.901512+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/71",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/?pz=1&hl=en-CA&topic=w&gl=CA&ceid=CA:en": {
+      "created_at": "2025-12-11T16:30:42.654334+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/72",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tLzEyNjYxNTUvZW1wdHlpbmctdGhlLW5vdGVib29rLXVubHZzLWRvbWluYW50LTJuZC1oYWxmLWJlYXRzLWxvYm9zLmh0bWzSAQA": {
+      "created_at": "2025-12-11T16:30:44.215783+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/73",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

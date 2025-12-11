@@ -510,6 +510,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://play.google.com/store/apps/details?id=com.getmimo": {
+      "created_at": "2025-12-11T18:30:17.575278+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/74",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

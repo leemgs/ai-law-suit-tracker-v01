@@ -552,6 +552,13 @@
       "case_no": "",
       "plaintiff": "Palantir",
       "defendant": "SoundHound AI1 day"
+    },
+    "https://news.google.com/home/sections/CAQiRENCQVNMUW9JTDIwdk1ETm5aRFVTQW1WdUdnSlZVeUlQQ0FRYUN3b0pMMjB2TURsak4zY3dLZ2dLQmhJRVZTNVRMaWdBKioIAComCAoiIENCQVNFZ29JTDIwdk1ETm5aRFVTQW1WdUdnSlZVeWdBUAFQAQ?hl=en-US&gl=US&ceid=US%3Aen": {
+      "created_at": "2025-12-12T10:22:55.901334+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/80",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

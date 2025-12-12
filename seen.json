@@ -580,6 +580,20 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/home/sections/CAQiSkNCQVNNUW9JTDIwdk1ETm5aRFVTQW1WdUdnSlZVeUlPQ0FRYUNnb0lMMjB2TURWcWFHY3FEUW9MRWdsSVpXRmtiR2x1WlhNb0FBKioIAComCAoiIENCQVNFZ29JTDIwdk1ETm5aRFVTQW1WdUdnSlZVeWdBUAFQAQ?hl=en-US&gl=US&ceid=US%3Aen": {
+      "created_at": "2025-12-12T16:25:39.549412+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/84",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/articles/CBMie2h0dHBzOi8vd3d3Lmxhdy5jb20vMjAyMS8xMi8wMy9pZC1wcm9iYWJseS1uZXZlci1sZXQtbXktY2xpZW50LWRvLXRoYXQtYS1wbGFpbnRpZmZzLWxhd3llcnMtdGFrZS1vbi1hbGVjLWJhbGR3aW4taW50ZXJ2aWV3L9IBAA?hl=en-US&gl=US&ceid=US%3Aen": {
+      "created_at": "2025-12-12T16:25:41.044590+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/85",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

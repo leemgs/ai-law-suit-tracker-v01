@@ -734,6 +734,20 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/home?tab=rn1&hl=en-US&gl=US&ceid=US:en": {
+      "created_at": "2025-12-15T20:23:38.839240+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/106",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/finance/quote/RBLX:NYSE": {
+      "created_at": "2025-12-15T20:23:40.967090+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/107",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

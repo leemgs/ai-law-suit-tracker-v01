@@ -769,6 +769,20 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/share.google?q=ndCmFqFLL3thSjWAW": {
+      "created_at": "2025-12-16T16:29:14.766617+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/111",
+      "case_no": "924명으로 2023",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "http://feedproxy.google.com/~r/Connecticut_Guide/~3/xMlvuHzrpWQ/": {
+      "created_at": "2025-12-16T16:29:16.682165+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/112",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

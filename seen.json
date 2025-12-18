@@ -825,6 +825,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/share.google?q=FlvZhJ0WDHhSNfFVq": {
+      "created_at": "2025-12-18T04:33:34.039891+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/119",
+      "case_no": "12월 18",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

@@ -832,6 +832,27 @@
       "case_no": "12월 18",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/articles/CBMiNmh0dHBzOi8vd3d3LnNtZHAuY29tL2ZpcmUtZGVzdHJveXMtd2VzdGVybi10b3duLzE3MDY4N9IBAA?hl=en-US&gl=US&ceid=US%3Aen": {
+      "created_at": "2025-12-19T01:40:29.635256+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/120",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/?rls=ig&hl=en-US&tab=wn&gl=US&ceid=US:en": {
+      "created_at": "2025-12-19T01:40:31.694594+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/121",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/?q=newark%20new%20jersey": {
+      "created_at": "2025-12-19T01:40:33.623875+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/122",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

@@ -909,6 +909,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://sites.google.com/site/kelvinlaw2012/home": {
+      "created_at": "2025-12-20T16:23:16.886356+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/131",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

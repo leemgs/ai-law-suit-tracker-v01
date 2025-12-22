@@ -979,6 +979,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/finance/quote/HKD-USD": {
+      "created_at": "2025-12-22T10:21:57.953929+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/141",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

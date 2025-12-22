@@ -951,6 +951,20 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/articles/CBMiemh0dHBzOi8vc2Vla2luZ2FscGhhLmNvbS9hcnRpY2xlLzQyMTM3NDUtZGV1dHNjaGUtYmFuay1hZy1kYi1jZW8tY2hyaXN0aWFuLXNld2luZy1xMy0yMDE4LXJlc3VsdHMtZWFybmluZ3MtY2FsbC10cmFuc2NyaXB00gHHAWh0dHBzOi8vc2Vla2luZ2FscGhhLWNvbS5jZG4uYW1wcHJvamVjdC5vcmcvdi9zL3NlZWtpbmdhbHBoYS5jb20vYW1wL2FydGljbGUvNDIxMzc0NS1kZXV0c2NoZS1iYW5rLWFnLWRiLWNlby1jaHJpc3RpYW4tc2V3aW5nLXEzLTIwMTgtcmVzdWx0cy1lYXJuaW5ncy1jYWxsLXRyYW5zY3JpcHQ_YW1wX2pzX3Y9MC4xI3dlYnZpZXc9MSZjYXA9c3dpcGU": {
+      "created_at": "2025-12-22T03:42:38.015032+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/137",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/finance/quote/META:NASDAQ": {
+      "created_at": "2025-12-22T03:42:40.107568+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/138",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

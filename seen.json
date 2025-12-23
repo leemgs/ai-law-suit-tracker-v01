@@ -1063,6 +1063,20 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://support.google.com/maps/thread/396217754/my-review-ist-not-beeing-published?hl=en": {
+      "created_at": "2025-12-23T08:29:34.476153+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/153",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/finance/quote/RUB-GEL": {
+      "created_at": "2025-12-23T08:29:36.539145+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/154",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

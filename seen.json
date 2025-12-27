@@ -1322,6 +1322,13 @@
       "case_no": "101동 1410",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tLzE0NjU3NDgvd3lvLXRlY2gtY29tcGFueS10by1oaXJlLW1vcmUtdGhhbi0xMDAtaW4tc2FudGEtZmUuaHRtbNIBXmh0dHBzOi8vd3d3LmFicWpvdXJuYWwuY29tLzE0NjU3NDgvd3lvLXRlY2gtY29tcGFueS10by1oaXJlLW1vcmUtdGhhbi0xMDAtaW4tc2FudGEtZmUuaHRtbC9hbXA?hl=en-US&gl=US&ceid=US%3Aen": {
+      "created_at": "2025-12-27T03:22:36.638126+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/190",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

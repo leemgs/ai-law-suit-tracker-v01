@@ -1539,6 +1539,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://support.google.com/gemini/thread/398924917/gemini-cut-me-off-when-i-told-it-my-finger-was-infected?hl=en-gb": {
+      "created_at": "2026-01-03T10:20:13.287575+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/221",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

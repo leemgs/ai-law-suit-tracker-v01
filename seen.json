@@ -1560,6 +1560,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/?q=Iowa": {
+      "created_at": "2026-01-03T18:28:30.274047+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/224",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

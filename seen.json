@@ -1602,6 +1602,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/finance/quote/SNPS:NASDAQ": {
+      "created_at": "2026-01-04T12:39:47.408155+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/230",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

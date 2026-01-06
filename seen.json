@@ -1637,6 +1637,41 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/about/careers/applications/jobs/results/139821639951884998-regulatory-and-litigation-counsel-content?category=LEGAL": {
+      "created_at": "2026-01-06T20:23:43.052952+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/235",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/?topic=s&hl=en-AU&gl=AU&ceid=AU:en": {
+      "created_at": "2026-01-06T20:23:44.920794+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/236",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/about/careers/applications/jobs/results/90450441128551110-technical-program-manager-data-center-capacity-planning?location=London+England": {
+      "created_at": "2026-01-06T20:23:46.610131+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/237",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/about/careers/applications/jobs/results/83488299141735110-industry-head-retail-large-customer-sales?location=London+England": {
+      "created_at": "2026-01-06T20:23:48.260322+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/238",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/about/careers/applications/jobs/results/139134720062431942-technical-program-manager-structuring-analyst?location=London+England": {
+      "created_at": "2026-01-06T20:23:49.950553+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/239",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

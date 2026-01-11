@@ -1917,6 +1917,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/finance/quote/MRNA:NASDAQ": {
+      "created_at": "2026-01-11T22:19:44.427210+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/275",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

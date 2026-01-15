@@ -2064,6 +2064,27 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vbS5kYWlseXBoYXJtLmNvbS9OZXdzLzI5OTU3NNIBAA?oc=5": {
+      "created_at": "2026-01-15T01:43:15.354968+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/296",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://careers.google.com/jobs/results/106764397661037254-associate-product-counsel/": {
+      "created_at": "2026-01-15T01:43:17.900853+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/297",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/about/careers/applications/jobs/results?location=London,+UK#!t=jo&jid=127025001&": {
+      "created_at": "2026-01-15T01:43:19.937660+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/298",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

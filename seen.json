@@ -2148,6 +2148,27 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/rss/articles/CBMiI2h0dHA6Ly9tLmRhaWx5cGhhcm0uY29tL05ld3MvMjk2ODk20gEA?oc=5": {
+      "created_at": "2026-01-16T01:44:50.694146+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/308",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/about/careers/applications/jobs/results?q=public+policy": {
+      "created_at": "2026-01-16T01:44:52.684144+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/309",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/about/careers/applications/jobs/results?distance=50&q=competition+economist": {
+      "created_at": "2026-01-16T01:44:54.316552+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/310",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

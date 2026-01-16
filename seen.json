@@ -2176,6 +2176,20 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/?&Q=Hailey+Baldwin&hl=en-AU&gl=AU&ceid=AU:en": {
+      "created_at": "2026-01-16T10:23:52.454208+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/312",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/home?pz=1&hl=en-US&tab=nn&gl=US&ceid=US:en": {
+      "created_at": "2026-01-16T10:23:54.056180+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/313",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

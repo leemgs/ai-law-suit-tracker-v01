@@ -2267,6 +2267,20 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/?q=Philadelphia%20pennsylvania": {
+      "created_at": "2026-01-18T12:39:21.163035+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/325",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/about/careers/applications/jobs/results/107535550449099462-competition-economist": {
+      "created_at": "2026-01-18T12:39:23.001386+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/326",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

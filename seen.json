@@ -2253,6 +2253,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/sorry/index?continue=https://m.youtube.com/shorts/hoUpU6QlHw0&q=EgRC-UIkGKe2sMsGIjDtdgFXXYED9fogRn2Bqtz_e3bYwOgiXyKuUghOy_afaDe96MO50YgVekZdBHoEo8oyBz5qY25kclJaAUM": {
+      "created_at": "2026-01-18T06:31:01.785924+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/323",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

@@ -2316,6 +2316,20 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/share.google?q=rm6Kk8hy4yg2uuOej": {
+      "created_at": "2026-01-19T12:50:06.270647+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/332",
+      "case_no": "47길 40",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/?q=nashville%20tennessee": {
+      "created_at": "2026-01-19T12:50:08.361783+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/333",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

@@ -2379,6 +2379,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/about/careers/applications/jobs/results/100099345004536518-data-center-maintenance-planner-program-manager?page=123": {
+      "created_at": "2026-01-20T22:22:47.667889+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/341",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

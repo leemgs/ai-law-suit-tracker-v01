@@ -2407,6 +2407,20 @@
       "case_no": "2026년 01",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/?q=Haiti": {
+      "created_at": "2026-01-21T18:41:32.927626+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/345",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/finance/quote/MCD:NYSE": {
+      "created_at": "2026-01-21T18:41:34.990009+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/346",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

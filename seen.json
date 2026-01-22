@@ -2421,6 +2421,27 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/rss/articles/CBMiI2h0dHA6Ly9tLmRhaWx5cGhhcm0uY29tL05ld3MvMjk5MTI20gEA?oc=5": {
+      "created_at": "2026-01-22T01:47:39.390599+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/347",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/?q=memphis%20tennessee": {
+      "created_at": "2026-01-22T01:47:41.612624+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/348",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/?q=North%20Carolina": {
+      "created_at": "2026-01-22T01:47:43.517969+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/349",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

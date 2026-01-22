@@ -2463,6 +2463,20 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/sorry/index?continue=https://m.youtube.com/shorts/GHQtIHRM_YM&q=EgRC-UJDGKjex8sGIjApKYXZZw_6fbchXj8WxV9VQ6QHEIcZoesbjti3Eso5KG9vvLRPVe-BYmLOHageZ6gyBz5qY25kclJaAUM": {
+      "created_at": "2026-01-22T12:49:50.489781+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/353",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/?q=Columbus%20ohio": {
+      "created_at": "2026-01-22T12:49:53.084088+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/354",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

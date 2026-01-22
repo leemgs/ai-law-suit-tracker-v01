@@ -2477,6 +2477,20 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/sorry/index?continue=https://m.youtube.com/shorts/q66W4M_VZaA&q=EgRC-UIBGKjex8sGIjDr-mnNu_JTzAeieO6sV2XwmEres4K9FcN4X6m3HTFqz-BE6PiqC2sVCLaIbWv_us8yBz5qY25kclJaAUM": {
+      "created_at": "2026-01-22T16:35:27.519194+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/355",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/finance/markets/most-active?hl=cs": {
+      "created_at": "2026-01-22T16:35:30.850145+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/356",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

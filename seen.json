@@ -2533,6 +2533,27 @@
       "case_no": "11시 30",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/rss/articles/CBMiI2h0dHA6Ly9tLmRhaWx5cGhhcm0uY29tL05ld3MvMjk4NzM30gEA?oc=5": {
+      "created_at": "2026-01-23T22:18:05.224002+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/363",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/share.google?q=zAVTlb5VwBxKG44FK": {
+      "created_at": "2026-01-23T22:18:07.612622+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/364",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/about/careers/applications/jobs/results/130124254485062342-director-head-of-emea-clean-energy-and-power?company=Google&company=YouTube&jld=10&location=Paris,+France": {
+      "created_at": "2026-01-23T22:18:09.766261+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/365",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

@@ -2498,6 +2498,13 @@
       "case_no": "16일에는 3",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/articles/CBMifWh0dHBzOi8vd3d3Lmxhdy5jb20vbmF0aW9uYWxsYXdqb3VybmFsLzIwMTkvMDMvMjcvcm9iZXJ0cy1zdHJhZGRsZXMtdGhlLW1pZGRsZS1hcy1nb3JzdWNoLXF1ZXN0aW9ucy1mZWRlcmFsLXJlZ3VsYXRvcnktcG93ZXIv0gEA?hl=en-US&gl=US&ceid=US%3Aen": {
+      "created_at": "2026-01-23T06:34:42.181564+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/358",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

@@ -2491,6 +2491,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/share.google?q=GQOUVZ8xphY1T5ULN": {
+      "created_at": "2026-01-23T04:42:04.507961+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/357",
+      "case_no": "16일에는 3",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

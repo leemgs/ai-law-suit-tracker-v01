@@ -2582,6 +2582,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/about/careers/applications/jobs/results/108101771020116678-paralegal/": {
+      "created_at": "2026-01-24T10:21:05.914230+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/370",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

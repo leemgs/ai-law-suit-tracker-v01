@@ -2554,6 +2554,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://support.google.com/maps/thread/403747614/how-to-report-a-company-that-is-clearly-using-fake-5-star-reviews?hl=en": {
+      "created_at": "2026-01-24T01:41:42.120098+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/366",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

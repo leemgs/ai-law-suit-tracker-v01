@@ -2561,6 +2561,27 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://feedproxy.google.com/~r/law/law-com-newswire/~3/d6xr-TBG_w4/": {
+      "created_at": "2026-01-24T03:26:19.809630+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/367",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/home?hl=en-NA&gl=NA&ceid=NA:en": {
+      "created_at": "2026-01-24T03:26:22.421133+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/368",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/about/careers/applications/jobs/results/108101771020116678-paralegal-fixedterm-contract-polish-english": {
+      "created_at": "2026-01-24T03:26:24.221625+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/369",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

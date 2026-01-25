@@ -2652,6 +2652,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/finance/quote/AVGO:NASDAQ": {
+      "created_at": "2026-01-25T16:25:12.726839+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/380",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

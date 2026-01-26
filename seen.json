@@ -2680,6 +2680,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://groups.google.com/g/i_love_taiwan": {
+      "created_at": "2026-01-26T10:26:36.819595+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/384",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

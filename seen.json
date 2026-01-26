@@ -2666,6 +2666,20 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/?q=Dallas": {
+      "created_at": "2026-01-26T08:32:51.137328+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/382",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://notifications.google.com/g/p/AD-FnEzgN5f4R-D9BYHoXpLFJcAMalHXYIijjv56SAphJB6Lb6S7p9WI-MOsgJ2KxMEpq3VRqvKy0ii6IhxApXUClgmTkk-js_FT355sL85VmW9V9jkhHUUu1y_ifCvy0-PDn02Hm7le5y8qr4_Vy6977rLuEQ28xXTJ": {
+      "created_at": "2026-01-26T08:32:52.661981+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/383",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

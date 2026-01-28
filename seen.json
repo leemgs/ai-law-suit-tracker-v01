@@ -2799,6 +2799,20 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/share.google?q=gOABNjyEvtNyizpFH": {
+      "created_at": "2026-01-28T22:26:41.582408+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/401",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/finance/quote/COST:NASDAQ": {
+      "created_at": "2026-01-28T22:26:43.746518+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/402",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

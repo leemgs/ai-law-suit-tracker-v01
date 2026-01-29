@@ -2820,6 +2820,20 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://support.google.com/adsense/thread/405330918?hl=en": {
+      "created_at": "2026-01-29T06:46:39.573922+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/404",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://www.google.com/finance/quote/XRP-EUR": {
+      "created_at": "2026-01-29T06:46:41.345125+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/405",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

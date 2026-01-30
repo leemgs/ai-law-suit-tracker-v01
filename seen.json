@@ -2890,6 +2890,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/?q=Wisconsin": {
+      "created_at": "2026-01-30T20:29:30.369826+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/414",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

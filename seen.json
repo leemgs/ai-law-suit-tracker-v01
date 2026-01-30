@@ -2883,6 +2883,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://support.google.com/adsense/thread/405330918?hl=en&msgid=405374199": {
+      "created_at": "2026-01-30T14:35:21.344672+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/413",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

@@ -2897,6 +2897,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://news.google.com/?q=Houston%20texas": {
+      "created_at": "2026-01-31T04:06:41.009891+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker/issues/415",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

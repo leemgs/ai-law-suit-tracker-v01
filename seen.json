@@ -2918,6 +2918,13 @@
       "case_no": "",
       "plaintiff": "",
       "defendant": ""
+    },
+    "https://www.google.com/finance/quote/BTDR:NASDAQ": {
+      "created_at": "2026-02-01T22:24:25.275578+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker-v01/issues/418",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }

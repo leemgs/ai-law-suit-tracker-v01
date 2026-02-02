@@ -2939,6 +2939,20 @@
       "case_no": "",
       "plaintiff": "In the last few days, Minneapolis officials and several volunteers from tracking groups said that while arrests were still occurring, they appeared to be taking place less visibly , with fewer clashes between agents and the public. School District",
       "defendant": "ICE"
+    },
+    "https://support.google.com/youtube/answer/9996224?hl=en-INtext=wh&co=GENIE.CountryCode%3DNP": {
+      "created_at": "2026-02-02T10:43:28.626059+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker-v01/issues/421",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
+    },
+    "https://news.google.com/?q=Nevada": {
+      "created_at": "2026-02-02T10:43:30.362688+00:00",
+      "issue_url": "https://github.com/leemgs/ai-law-suit-tracker-v01/issues/422",
+      "case_no": "",
+      "plaintiff": "",
+      "defendant": ""
     }
   }
 }
